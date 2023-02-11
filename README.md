@@ -1,1 +1,1 @@
-All DSBDA Lab Assignments as per SPPU Pattern
+Data Science and Big Data Analytics Laboratory
