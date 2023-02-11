@@ -1,1 +1,1 @@
-DSBDA Lab Assignments as per SPPU Pattern
+All DSBDA Lab Assignments as per SPPU Pattern
